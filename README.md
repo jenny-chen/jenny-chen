@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm a software engineering student at the University of Waterloo 👩🏻‍💻. I like to make things and have new experiences! I'm currently on a study term and looking for a Winter 2021 internship.
 
-You can find out more about me at [jennychen.ca](jennychen.ca).
+You can find out more about me at [jennychen.ca](https://jennychen.ca).
