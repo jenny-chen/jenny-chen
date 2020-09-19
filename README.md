@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineering student at the University of Waterloo 👩🏻‍💻. I like to make things and have new experiences! You can find out more about me at [jennychen.ca](jennychen.ca).
+I'm a software engineering student at the University of Waterloo 👩🏻‍💻. I like to make things and have new experiences! I'm currently on a study term and looking for a Winter 2021 internship.
 
-I'm currently on a study term and looking for a Winter 2021 internship.
+You can find out more about me at [jennychen.ca](jennychen.ca).
