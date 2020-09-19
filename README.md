@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jenny 👋
 
 <!--
 **jenny-chen/jenny-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software engineering student at the University of Waterloo 👩🏻‍💻. I like to make things and have new experiences! You can find out more about me at [jennychen.ca](jennychen.ca).
+
+I'm currently on a study term and looking for a Winter 2021 internship.
