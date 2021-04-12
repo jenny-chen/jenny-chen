@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software engineering student at the University of Waterloo 👩🏻‍💻. I like to make things and have new experiences!
 
-I'm currently working as a:<br/>
+I'm currently a:<br/>
 Fullstack Developer at Synqrinus<br/>
 Organizer at [Hack the North](hackthenorth.com)
 
