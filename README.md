@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a software engineering student at the University of Waterloo 👩🏻‍💻.
 
 I'm currently:<br/>
-trying to complete my second year 😢 <br />
+working as a SWE Intern at [Faire](faire.com) <br />
 an organizer at [Hack the North](hackthenorth.com)
 
 You can find out more about me at [jennychen.ca](https://jennychen.ca).
