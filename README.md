@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 I'm a software engineering student at the University of Waterloo 👩🏻‍💻.
 
 I'm currently:<br/>
-in my 3B term in SE at UWaterloo (studying abroad at HKU)<br />
-preparing to intern at Figma in the winter<br />
-an organizer at [Hack the North](hackthenorth.com)
+interning at Figma for Winter 2023
 
 You can find out more about me at [jennychen.ca](https://jennychen.ca).
