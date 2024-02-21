@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineering student at the University of Waterloo 👩🏻‍💻.
+I just graduated from the University of Waterloo in Dec 2024 👩🏻‍💻.
 
-I'm currently:<br/>
-interning at Figma for Winter 2023
+I'm currently working fulltime as a SWE on the FigJam team at Figma!
 
 You can find out more about me at [jennychen.ca](https://jennychen.ca).
